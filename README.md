@@ -8,3 +8,5 @@ How to install the game:
 1. Unzip Murmurwoods.rar.
 2. Unzip UnityPlayer.rar and move its content into Murmurwoods folder.
 3. Run Murmurwoods.exe.
+
+To check my breathtaking code unzip Scripts.rar
